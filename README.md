@@ -1,2 +1,2 @@
 # Useful-things
-Everything it could be useful, but was made with no purpose
+Everything that could be useful, but was made with no purpose
